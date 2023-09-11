@@ -3,7 +3,7 @@ import { createContext, useContext, useReducer } from "react";
 const AuthContext = createContext();
 
 const initialState = {
-  user: null, // logged in user object or null when not authenticated
+  user: null,
   isAuthenticated: false,
 };
 

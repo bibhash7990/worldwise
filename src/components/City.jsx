@@ -1,9 +1,9 @@
-import { useParams } from "react-router-dom";
-import styles from "./City.module.css";
 import { useEffect } from "react";
+import { useParams } from "react-router-dom";
 import { useCities } from "../contexts/CitiesContext";
-import Spinner from "./Spinner";
 import BackButton from "./BackButton";
+import styles from "./City.module.css";
+import Spinner from "./Spinner";
 
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
@@ -23,14 +23,6 @@ function City() {
     },
     [id, getCity]
   );
-
-  // // TEMP DATA
-  // const currentCity = {
-  //   cityName: "Lisbon",
-  //   emoji: "🇵🇹",
-  //   date: "2027-10-31T15:59:59.138Z",
-  //   notes: "My favorite city so far!",
-  // };
 
   const { cityName, emoji, date, notes } = currentCity;
 

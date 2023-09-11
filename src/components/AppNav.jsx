@@ -15,4 +15,5 @@ function AppNav() {
     </nav>
   );
 }
+
 export default AppNav;

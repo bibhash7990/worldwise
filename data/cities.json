@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Macedo de Cavaleiros",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-11T14:15:26.060Z",
+      "notes": "hii\n",
+      "position": {
+        "lat": "41.52502957323801",
+        "lng": "-6.987304687500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Hoyocasero",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T14:15:39.803Z",
+      "notes": "hiiii",
+      "position": {
+        "lat": "40.396764305572056",
+        "lng": "-4.965820312500001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Riyaḑ al Khabra’",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2023-09-11T14:16:00.432Z",
+      "notes": "hiii",
+      "position": {
+        "lat": "26.352497858154024",
+        "lng": "42.36328125000001"
+      },
+      "id": 98443201
     }
   ]
 }
